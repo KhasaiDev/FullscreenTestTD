@@ -1,0 +1,2 @@
+Proyecto simple para probar una aplicacion que inicie en modo pantalla completa trabajando solo con XML.
+El objetivo era ser capaces de crear una app que se inicie en modo pantalla completa para dar una bienvenida al usuario, colocar 2 TextView y un ImageView. Ademas de eso debiamos cambiar el icono de la App por el que quisieramos, en mi caso puse el de una tostadora haciendo honor a mi PC que parece tostadora (Cargando los proyectos de Android Studio se esfuerza tanto que casi comienza a levitar de la fuerza que hacen los ventiladores...pero cargan igual xd)
