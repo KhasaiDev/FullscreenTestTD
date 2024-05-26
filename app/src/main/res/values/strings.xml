@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FullscreenTestTD</string>
+    <string name="top_text">Hola!</string>
+    <string name="bottom_text">Gracias por usar nuestra app</string>
+</resources>
